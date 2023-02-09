@@ -1,0 +1,53 @@
+*{  
+    font-family: 'Advent Pro', sans-serif;
+}
+
+header{
+    background-color: #f582ae;
+}
+
+
+.container-fluid .navbar{
+    background-color:#f582ae ;
+    ;
+}
+.container-fluid .navbar .container-fluid .navbar-brand img{
+    transition: all 0.4s;
+}
+.container-fluid .navbar .container-fluid .navbar-brand img:hover{
+transform: scale(1.2);
+}
+
+.navbar-nav a{
+    color: aliceblue;
+}
+
+.navbar-nav a:hover{
+    transform: scale(1.1);
+    transition: all 0.3s;
+}
+
+#fondo{
+    background-color:#f3d2c1;;
+}
+.container-fluid .carousel {
+
+    color:#f582ae;
+    
+}
+p{
+    color: aliceblue;
+}
+
+/*footer*/
+
+footer{
+    background-color: #f582ae;
+}
+footer img{
+    width: 25px;
+    height: 25px;
+    gap: 1.5rem;
+}
+
+/*footer*/
